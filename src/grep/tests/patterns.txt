@@ -1,0 +1,8 @@
+luck
+20
+Glowing
+^c$
+test
+fleeting
+77
+1000
